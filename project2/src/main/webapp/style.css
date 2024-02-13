@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    padding-left: 35px;
+    padding-bottom: 20px;
+}
+header nav{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.knapp:hover{
+    color: bd8a00;
+    background-color: rgb(255,255,255);
+}
+header a{
+    background-color: ae8e42;
+    border: 0.5px solid rgb(255, 255, 255);
+    display: flex;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    animation-name: fade;
+    animation-duration: 5s;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}

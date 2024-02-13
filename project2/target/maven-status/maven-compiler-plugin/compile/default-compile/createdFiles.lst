@@ -1,0 +1,7 @@
+servlets\StudentsServlet.class
+org\example\project2\JAXRSConfiguration.class
+servlets\AddStudentsServlet.class
+servlets\AssociationServlet.class
+org\example\project2\resources\JavaEE8Resource.class
+servlets\AttendanceServlet.class
+servlets\CoursesServlet.class
